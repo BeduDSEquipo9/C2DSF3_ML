@@ -44,8 +44,6 @@ Equipo 8. Integrantes:
 
 ## Enlaces
 
-* [Presentación](https://docs.google.com/presentation/d/1Up5SZa_2XrgGQuX5oR6IzMDnFCfq-Aj_/edit?usp=share_link&ouid=114487294612860477624&rtpof=true&sd=true)
+* [Presentación](https://docs.google.com/presentation/d/1ceVGlDCweVPI7TXipkAGSa1r2PmDRVvy/edit?usp=share_link&ouid=114487294612860477624&rtpof=true&sd=true)
 
 * [Google Drive del Proyecto](https://drive.google.com/drive/folders/1Miypy7I1SoBcB5VzN9_QkNBG_lgsaSCF?usp=share_link)
-
-* [Web Scraping Colab](https://colab.research.google.com/drive/19HFEGmKSxEVSvJzStKxA1V0jfRXFas8T?usp=share_link)
