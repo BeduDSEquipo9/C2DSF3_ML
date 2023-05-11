@@ -1,15 +1,13 @@
-# C2DSF3_ML
+## C2DSF3_ML
 
-# ***ML con Python Santander 2023***
+# ***Determinación del precio base de mercado para renta de propiedades en plataformas como Airbnb***
 
-# Readme.md
-
-# ***Determinación del precio de la propiedad Airbnb***
+## ***ML con Python Santander 2023***
 
 <BR> (Una pregunta recurrente para alguien que desea ofertar la propiedad en la plataforma es: ¿Cuánto debo cobrar por alquilar mi propiedad en Airbnb?)
 <BR>
 
-# Machine  Learning  with Python
+## Machine  Learning  with Python
 
 Módulo 5
 
