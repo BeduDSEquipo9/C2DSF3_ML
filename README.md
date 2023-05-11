@@ -6,7 +6,7 @@
 
 # ***Determinación del precio de la propiedad Airbnb***
 
-> (Una pregunta recurrente para alguien que desea ofertar la propiedad en la plataforma es: ¿Cuánto debo cobrar por alquilar mi propiedad en Airbnb?)
+<BR> (Una pregunta recurrente para alguien que desea ofertar la propiedad en la plataforma es: ¿Cuánto debo cobrar por alquilar mi propiedad en Airbnb?)
 <BR>
 
 # Machine  Learning  with Python
@@ -23,27 +23,35 @@ Equipo 8. Integrantes:
 
 ## Contenido
 
-* Introducción
-* Importación de librerías
-* Carga y revisión del conjunto de datos
-* País: Estados Unidos
-* Análisis de 6 ciudades
-  * Boston
-  * Chicago
-  * Los Angeles
-  * Nueva York
-  * San Francisco
-  * Washington DC
-
-* Introducción a Machine Learning: Clasificación No Supervisada y Supervisada
-* Conclusiones y siguientes pasos
-
-## Extras
-
-*
+* Identificación del problema.
+* ¿Por que usar Machine Learning?
+* Búsqueda de soluciones anteriores.
+* Importación de librerías.
+* Conjunto de datos.
+* Análisis exploratorio de datos.
+  * Valores ausentes.
+* Ingeniería de variables.
+* Limpieza de datos.
+  * Reducción de dimensiones.
+  * Valores extremos.
+* Visualizaciones.
+  * Análisis multivariable.
+  * Treemap.
+  * Mapa.
+  * Procesamiento de Lenguaje Natural.
+* Algoritmos supervisados de Machine Learning.
+  * Regresión.
+    * Transformación, definición de conjuntos y estandarización.
+      * Division de los datasets.
+    * Comparativa de modelos.
+  * Clasificación.
+    * Transformación, definición de conjuntos y estandarización.
+      * Division de los datasets.
+    * Comparativa de modelos.
+* Conclusiones y siguientes pasos.
 
 ## Enlaces
 
 * [Presentación](https://docs.google.com/presentation/d/1ceVGlDCweVPI7TXipkAGSa1r2PmDRVvy/edit?usp=share_link&ouid=114487294612860477624&rtpof=true&sd=true)
 
-* [Google Drive del Proyecto](https://drive.google.com/drive/folders/1Miypy7I1SoBcB5VzN9_QkNBG_lgsaSCF?usp=share_link)
+* [Google Drive y Colab del Proyecto](https://drive.google.com/drive/folders/1Miypy7I1SoBcB5VzN9_QkNBG_lgsaSCF?usp=share_link)
